@@ -1,4 +1,4 @@
-Link to the article: https://depascalematteo.medium.com/5ca74d6dfa4a
+Link to the article: https://depascalematteo.medium.com/building-a-lightning-fast-serverless-blog-on-aws-with-sveltekit-part-4-5ca74d6dfa4a
 
 To release it follow these steps:
 
